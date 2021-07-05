@@ -1,0 +1,21 @@
+body{
+    background-color: #FFF5DE;
+}
+
+hr{
+    background-color: #FFF5DE;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 5%;
+}
+h1{
+    color: #3C5186;
+}
+h3{
+    color: #3C5186;
+}
+img{
+    background-color: aliceblue;
+}
